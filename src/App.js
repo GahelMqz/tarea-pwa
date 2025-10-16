@@ -52,7 +52,7 @@ function App() {
       {isLoading ? <SplashScreen /> : <div className="min-h-screen bg-gradient-to-r from-indigo-500 to-blue-500 flex items-center justify-center px-4">
         <div className="bg-white p-8 rounded-xl shadow-lg w-full max-w-md transition-all duration-300">
           <h1 className="text-3xl font-semibold mb-6 text-center text-slate-800 tracking-tight">
-            Control de tareas Test
+            Control de tareas
           </h1>
 
           <div className="flex gap-3 mb-6 ">
