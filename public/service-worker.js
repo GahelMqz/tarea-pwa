@@ -5,7 +5,7 @@ const CACHE_NAME = 'mi-pwa-cache-v1';
 const urlsToCache = [
   '/',
   '/index.html',
-  '/app.js',
+  '/manifest.json',
   '/logo.png',
 ];
 
