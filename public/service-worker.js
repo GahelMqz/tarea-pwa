@@ -7,7 +7,9 @@ const urlsToCache = [
   '/index.html',
   '/styles.css',
   '/app.js',
-  '/logo192.png'
+  '/logo192.png',
+  '/logo512.png',
+  '/logo.png',
 ];
 
 // Evento de instalación del Service Worker
